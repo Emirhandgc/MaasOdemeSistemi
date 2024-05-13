@@ -1,4 +1,6 @@
 Maaş Ödeme Sistemi:
+![SistemFoto](https://github.com/Emirhandgc/MaasOdemeSistemi/assets/76902278/f7f91249-3a88-4cdf-bd59-b9420b1dfb53)
+
 
 Maaş Ödeme Sistemi, bir şirketin maaş ödemelerini yönetmek için kullanılan bir PyQt5 tabanlı bir uygulamadır. Bu sistem, şirketin bakiyesini yönetmek, 
 çalışanları eklemek, çıkarmak veya düzenlemek, departmanlara maaş ödemek ve dekontları göndermek gibi temel işlevleri içerir.
